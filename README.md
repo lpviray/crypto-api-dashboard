@@ -5,6 +5,7 @@ The live webpage can be viewed at: [https://codesandbox.io/p/github/lpviray/cryp
 
 # Additional Features
  • Dynamic dashboard<br/>
+ • Interactive buttons to refresh the page<br/>
 
  # Technologies Used
  • HTML5<br/>
